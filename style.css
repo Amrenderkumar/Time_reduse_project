@@ -1,0 +1,18 @@
+body{
+     background-color: rgb(201, 201, 213);
+}
+div{
+    background-color: blue;
+    color: white;
+    border-radius: 40px;
+    border: 2px solid yellow;
+    text-align: center;
+    scrollbar-shadow-color: red;
+}
+h1{
+    margin-top: auto;
+    padding: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
