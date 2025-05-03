@@ -22,5 +22,12 @@ This digital clock can be used for:
 🛠️ Include date and day display  
 🛠️ Add themes or color options  
 🛠️ Support multiple time zones  
+## How It Works
+
+The clock uses `setInterval()` in JavaScript to update every second, displaying the current time using `Date()` methods.
+
+---
+
+📌 **Note:** Make sure the image path (`./path/to/Screenshot%20(86).png`) matches your project folder structure.
 ![Digital Clock](./path/to/Screenshot%20(86).png)
 ![image alt](https://github.com/Amrenderkumar/Time_reduse_project/blob/51b8dfc85c0a1a441c25112abf9f5802dd26e116/Screenshot%20(86).png)
