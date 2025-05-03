@@ -44,4 +44,6 @@ The clock uses `setInterval()` in JavaScript to update every second, displaying 
   Lightweight and easy to integrate into any web page or dashboard.
   - 🌍 **Cross-Browser Compatible**  
   Runs smoothly on all modern web browsers with no dependencies.
+- 🛠️ **Easily Customizable**  
+  Modify color schemes, fonts, or add date/time zones with simple code tweaks.
 ![image alt](https://github.com/Amrenderkumar/Time_reduse_project/blob/51b8dfc85c0a1a441c25112abf9f5802dd26e116/Screenshot%20(86).png)
