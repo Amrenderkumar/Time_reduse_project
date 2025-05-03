@@ -29,5 +29,15 @@ The clock uses `setInterval()` in JavaScript to update every second, displaying 
 ---
 
 📌 **Note:** Make sure the image path (`./path/to/Screenshot%20(86).png`) matches your project folder structure.
+## 🔧 Features
+
+- ⏰ **Live Time Display**  
+  Automatically updates the current time every second in `HH : MM : SS` format.
+
+- 🎨 **Custom Background & Styling**  
+  Elegant light beige background with crisp blue-colored digital-style font for readability.
+
+- 💡 **Minimalist Interface**  
+  Focused design with no distractions — just the time.
 ![Digital Clock](./path/to/Screenshot%20(86).png)
 ![image alt](https://github.com/Amrenderkumar/Time_reduse_project/blob/51b8dfc85c0a1a441c25112abf9f5802dd26e116/Screenshot%20(86).png)
