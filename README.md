@@ -15,5 +15,12 @@ This digital clock can be used for:
 - Embedding into web dashboards
 - Personal productivity tools
 - Learning and practicing JavaScript timing functions
+- 
+## Planned Enhancements
+
+🛠️ Add 12/24 hour toggle  
+🛠️ Include date and day display  
+🛠️ Add themes or color options  
+🛠️ Support multiple time zones  
 ![Digital Clock](./path/to/Screenshot%20(86).png)
 ![image alt](https://github.com/Amrenderkumar/Time_reduse_project/blob/51b8dfc85c0a1a441c25112abf9f5802dd26e116/Screenshot%20(86).png)
