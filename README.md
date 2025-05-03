@@ -39,5 +39,7 @@ The clock uses `setInterval()` in JavaScript to update every second, displaying 
 
 - 💡 **Minimalist Interface**  
   Focused design with no distractions — just the time.
-![Digital Clock](./path/to/Screenshot%20(86).png)
+
+- ⚙️ **Pure HTML, CSS & JavaScript**  
+  Lightweight and easy to integrate into any web page or dashboard.
 ![image alt](https://github.com/Amrenderkumar/Time_reduse_project/blob/51b8dfc85c0a1a441c25112abf9f5802dd26e116/Screenshot%20(86).png)
