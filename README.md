@@ -1,5 +1,7 @@
 # Time_reduse_project
 This website to make a time reduce time web.
+# Using language
+-
  # Digital Clock
 
 This project also includes a simple **Digital Clock** component built using HTML, CSS, and JavaScript. The clock displays the current time in `HH : MM : SS` format and updates in real-time.
