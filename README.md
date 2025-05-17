@@ -9,7 +9,7 @@ This website to make a time reduce time web.
 This project also includes a simple **Digital Clock** component built using HTML, CSS, and JavaScript. The clock displays the current time in `HH : MM : SS` format and updates in real-time.
 ## Features
 
-✅ Real-time clock with hour, minute, and second updates  
+✅ Real-time clock with hour, minute, and second updates   
 ✅ Styled with custom background and blue digital font  
 ✅ Auto-refresh every second  
 ✅ Clean and minimal layout 
